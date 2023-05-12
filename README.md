@@ -6,3 +6,7 @@ I'm from Columbia, SC.
 🖱️ I am working on an Ecommerce website using React, Flask, and SQL
 🎯 2023 goals: Grow my knowledge in front and backend development and get a web developer job
 ✨ Fun fact: I play guitar
+
+https://www.linkedin.com/in/joseph-niati/
+
+email: emcmonkey12@gmail.com
